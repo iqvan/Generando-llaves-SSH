@@ -72,5 +72,3 @@
 	```
 	ssh my_vps_root
 	```
-
-4)
