@@ -29,18 +29,18 @@
 	```
 	Te mostrará lo siguiente:
 
-	![Ejecución Comando ](https://gitlab.com/iquinonez/nginx/-/raw/van/1.%20Generando%20llaves%20SSH/Pictures/Capture_ssh-keygen.PNG)
+	![Ejecución Comando ](https://github.com/iqvan/Generando-llaves-SSH/blob/master/Pictures/Capture_ssh-keygen.PNG)
 	
 	Una vez ejecutado dicho comando te generará dos archivos que contienen la llave pública y la llave privada:
 
-	![Files generados](https://gitlab.com/iquinonez/nginx/-/raw/van/1.%20Generando%20llaves%20SSH/Pictures/Capture_file_keyprivate_keypublic.PNG)
+	![Files generados](https://github.com/iqvan/Generando-llaves-SSH/blob/master/Pictures/Capture_file_keyprivate_keypublic.PNG)
 
 
 3) Copiar la llave pública en el **servidor**
 	
 	Abrimos el archivo con bloc de notas para copiar la llave pública:
 
-	![Copy File](https://gitlab.com/iquinonez/nginx/-/raw/van/1.%20Generando%20llaves%20SSH/Pictures/Capture_copy-key-public.PNG)
+	![Copy File](https://github.com/iqvan/Generando-llaves-SSH/blob/master/Pictures/Capture_copy-key-public.PNG)
 
 	Coloca el siguiente comando para dirigirte a la ruta correspondiente en el servidor:
 
@@ -53,7 +53,7 @@
 
 	Finalmente pegar en ese archivo la llave pública previamente copiada:
 
-	![Paste File](https://gitlab.com/iquinonez/nginx/-/raw/van/1.%20Generando%20llaves%20SSH/Pictures/Capture_SSH_Authorized_keys.PNG)
+	![Paste File](https://github.com/iqvan/Generando-llaves-SSH/blob/master/Pictures/Capture_SSH_Authorized_keys.PNG)
 
 4) Conectarnos al acceso remoto a través de nuestra consola del **ordenador**:
 
