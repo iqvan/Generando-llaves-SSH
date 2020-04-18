@@ -8,7 +8,7 @@
 	```
 	Te mostrará lo siguiente:
 
-	![Ejecución Comando ](https://gitlab.com/iquinonez/nginx/-/raw/van/1.%20Generando%20llaves%20SSH/Pictures/Capture_add_User.PNG)
+	![Ejecución Comando ](https://github.com/iqvan/Generando-llaves-SSH/blob/master/Pictures/Capture_add_User.PNG)
 
 	*Cabe señalar que para eliminar dicho usuario puede utilizar el siguiente comando:*
 	```
